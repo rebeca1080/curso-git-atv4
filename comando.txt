@@ -1,0 +1,21 @@
+nano arquivo1.txt
+nano arquivo2.txt
+nano arquivo3.txt
+git add . 
+git commit -m "primeiro commit inicial"
+git diff
+git add .
+git commit -m "segunda modificação"
+git log --graph
+git log --oneline
+git revert 
+git branch modificacao
+git switch main
+git stash
+git stash pop
+git status
+git add .
+git commit -m "segunda modificação"
+git tag V1.0 -m "versão estavel"
+git tag
+git push origin v1.0
